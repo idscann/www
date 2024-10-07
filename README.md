@@ -1,8 +1,19 @@
 ![idscann.com](https://logo.idscann.com/1/cover.png)
 
+
+
 # [idscann.com](https://www.idscann.com/)
 idscann.com
 
+
+
+idscann Accounts
+
+idscann Accounts is the centralized accounts system for all of the idscann-operated services, it provides Single Sign-On (SSO) experience for our users.
+
+
+
+https://sourcegraph.com/docs/sourcegraph-accounts
 
 example
 https://note.nkmk.me/en/python-pillow-qrcode/
